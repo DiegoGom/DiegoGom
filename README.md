@@ -11,5 +11,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoGom&count_private=true&show_icons=truek" />
 </a>
 <a href="https://github.com/DiegoGom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGom&layout=compactk&langs_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGom&layout=compactk&langs_count=8" />
 </a>
